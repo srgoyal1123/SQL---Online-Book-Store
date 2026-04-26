@@ -15,7 +15,7 @@ The Online Book Store Management System is designed to simplify bookstore operat
 🔗 Relational database with proper table connections
 
 🛠️ Technologies Used
-Database: MySQL / SQL, 
+Database: PostgreSQL / SQL, 
 Language: SQL Queries, 
 Tool: Postgre SQL / PGADMIN4
 
